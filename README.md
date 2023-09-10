@@ -1,4 +1,4 @@
-# praktikum_2_diffgi
+# praktikum_3_diffgi
 
 A new Flutter project.
 
